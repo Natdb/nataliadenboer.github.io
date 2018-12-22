@@ -4,6 +4,11 @@
   src: url('fonts/BebasNeue-Regular.otf');
 }
 
+@font-face {
+  font-family: SignPainter;
+  src: url('fonts/SignPainter-HouseScript-Regular.ttf');
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -93,7 +98,7 @@ h4 {
   font-weight: 400;
 }
 h5 {
-  font-size: 18px;
+  font-size: 30px;
   color: #642932;
 }
 h6 {
@@ -157,8 +162,9 @@ strong {
 }
 
 .lightbulb {
+  font-family: SignPainter, Helvetica, Arial, sans-serif;
   text-align: center;
-  font-size: 14px;
+  font-size: 20px;
 }
 .lightbulb img {
   width: 70px;
