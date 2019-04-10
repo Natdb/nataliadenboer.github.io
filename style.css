@@ -210,7 +210,10 @@ strong {
   font-size: 18px;
   line-height: 18px;
 }
-
+.icon-airbnb {
+  width: 100px;
+  height: 100px;
+}
 .icon-slang {
   width: 100px;
   height: 100px;
